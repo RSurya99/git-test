@@ -1,0 +1,2 @@
+ini adalah file yg berada pada branch branch-baru
+percobaan edit file yg berada pada branch branch baru
