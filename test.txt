@@ -1,2 +1,2 @@
 Belajar github
-edit file di github lalu commit
+hapus data lalu tambahkan data baru dan commit
