@@ -1,2 +1,3 @@
 Belajar github
 hapus data lalu tambahkan data baru dan commit
+fork repo punya org
